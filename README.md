@@ -5,3 +5,4 @@
 (LAB-05)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-05.ipynb]
 (LAB-06)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-06.ipynb]
 (LAB-07)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-07.ipynb]
+(LAB-08)[https://github.com/Ganeshsai21/AIML-2024/blob/main/Lab_08.ipynb]
