@@ -3,3 +3,4 @@
 (LAB-03)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20Lab-03.ipynb]
 (LAB-04)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-04.ipynb]
 (LAB-05)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-05.ipynb]
+(LAB-06)[https://github.com/Ganeshsai21/AIML-2024/blob/main/AIML%20LAB-06.ipynb]
